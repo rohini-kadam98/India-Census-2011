@@ -1,6 +1,7 @@
 # India-Census-2011
 
-INTRODUCTION
+##-INTRODUCTION
+
 •Census is nothing but a process of collecting, compiling, analyzing, evaluating, publishing and disseminating statistical data regarding the population.
 
 •It is a reflection of truth and facts as they exist in a country about its people, their diversity of habitation, religion, culture, language, education, health and socio-economic status.
